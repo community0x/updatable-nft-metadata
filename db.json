@@ -3,26 +3,30 @@
     "name": "Test Ones #1",
     "description": "The mighty morphing test ones!",
     "image": "ipfs://QmRbQ9AszkWnifGRf6XoyoGtn9WuXDVg4qZhLwEcCtY6eP/1.png",
-    "dna": "19f67d29e22814472ba7b948d095469755c22de4",
+    "dna": "9e2cf320cee1647dfac725dd85b11bd6ea36695e",
     "id": 1,
     "edition": 1,
-    "date": 1685100904581,
+    "date": 1685104186498,
     "attributes": [
       {
         "trait_type": "BG",
-        "value": "BG 1"
+        "value": "BG 3"
       },
       {
         "trait_type": "Body",
-        "value": "Body Pink"
+        "value": "Body Teal"
       },
       {
         "trait_type": "Hands",
-        "value": "Hands 3"
+        "value": "Hands 5"
       },
       {
         "trait_type": "Visor",
-        "value": "Visor Grin"
+        "value": "Visor Down"
+      },
+      {
+        "trait_type": "Level",
+        "value": "0"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -31,14 +35,46 @@
     "name": "Test Ones #2",
     "description": "The mighty morphing test ones!",
     "image": "ipfs://QmRbQ9AszkWnifGRf6XoyoGtn9WuXDVg4qZhLwEcCtY6eP/2.png",
-    "dna": "ecaa288fde1df4b85bf6dbd59e9c5bb8ea9f63ff",
+    "dna": "50bed6a3a762d30ded36c46e87640dc80229d108",
     "id": 2,
     "edition": 2,
-    "date": 1685100904629,
+    "date": 1685104186546,
     "attributes": [
       {
         "trait_type": "BG",
-        "value": "BG 1"
+        "value": "BG 3"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Body Flamingo"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Hands 2"
+      },
+      {
+        "trait_type": "Visor",
+        "value": "Visor Cigar"
+      },
+      {
+        "trait_type": "Level",
+        "value": "0"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Test Ones #3",
+    "description": "The mighty morphing test ones!",
+    "image": "ipfs://QmRbQ9AszkWnifGRf6XoyoGtn9WuXDVg4qZhLwEcCtY6eP/3.png",
+    "dna": "99f45fe9df929027aec2140b85853aa451cda23e",
+    "id": 3,
+    "edition": 3,
+    "date": 1685104186591,
+    "attributes": [
+      {
+        "trait_type": "BG",
+        "value": "BG 2"
       },
       {
         "trait_type": "Body",
@@ -50,35 +86,11 @@
       },
       {
         "trait_type": "Visor",
-        "value": "Visor Up"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Test Ones #3",
-    "description": "The mighty morphing test ones!",
-    "image": "ipfs://QmRbQ9AszkWnifGRf6XoyoGtn9WuXDVg4qZhLwEcCtY6eP/3.png",
-    "dna": "e1c33037e78b0ef1f96f851c760fc6c84dfdf865",
-    "id": 3,
-    "edition": 3,
-    "date": 1685100904674,
-    "attributes": [
-      {
-        "trait_type": "BG",
-        "value": "BG 2"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Body Teal"
-      },
-      {
-        "trait_type": "Hands",
-        "value": "Hands 1"
-      },
-      {
-        "trait_type": "Visor",
         "value": "Visor Eye"
+      },
+      {
+        "trait_type": "Level",
+        "value": "0"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -87,10 +99,10 @@
     "name": "Test Ones #4",
     "description": "The mighty morphing test ones!",
     "image": "ipfs://QmRbQ9AszkWnifGRf6XoyoGtn9WuXDVg4qZhLwEcCtY6eP/4.png",
-    "dna": "4589665d2dbefb9cb8b3247cef180ce8305820a3",
+    "dna": "72858a8d4c4a4a591969daab729f81f3dc9053ec",
     "id": 4,
     "edition": 4,
-    "date": 1685100904716,
+    "date": 1685104186632,
     "attributes": [
       {
         "trait_type": "BG",
@@ -98,15 +110,19 @@
       },
       {
         "trait_type": "Body",
-        "value": "Body Black"
+        "value": "Body Pink"
       },
       {
         "trait_type": "Hands",
-        "value": "Hands 1"
+        "value": "Hands 2"
       },
       {
         "trait_type": "Visor",
-        "value": "Visor Grin"
+        "value": "Visor Cigar"
+      },
+      {
+        "trait_type": "Level",
+        "value": "0"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -115,26 +131,30 @@
     "name": "Test Ones #5",
     "description": "The mighty morphing test ones!",
     "image": "ipfs://QmRbQ9AszkWnifGRf6XoyoGtn9WuXDVg4qZhLwEcCtY6eP/5.png",
-    "dna": "d8ada7226082b2074e0d8787ccbc4cf8ee1299d1",
+    "dna": "4d1d845c10ffb06d49d5ee5e9f7beccca02a0d99",
     "id": 5,
     "edition": 5,
-    "date": 1685100904759,
+    "date": 1685104186673,
     "attributes": [
       {
         "trait_type": "BG",
-        "value": "BG 1"
+        "value": "BG 3"
       },
       {
         "trait_type": "Body",
-        "value": "Body Black"
+        "value": "Body Violet"
       },
       {
         "trait_type": "Hands",
-        "value": "Hands 2"
+        "value": "Hands 5"
       },
       {
         "trait_type": "Visor",
-        "value": "Visor Up"
+        "value": "Visor Eye"
+      },
+      {
+        "trait_type": "Level",
+        "value": "0"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -143,66 +163,10 @@
     "name": "Test Ones #6",
     "description": "The mighty morphing test ones!",
     "image": "ipfs://QmRbQ9AszkWnifGRf6XoyoGtn9WuXDVg4qZhLwEcCtY6eP/6.png",
-    "dna": "14ed881772dbc27d89b1d048c94d0432e9f0a2ba",
+    "dna": "c8820a2236d7a6f6086cc1f83721cd0d92025f2b",
     "id": 6,
     "edition": 6,
-    "date": 1685100904801,
-    "attributes": [
-      {
-        "trait_type": "BG",
-        "value": "BG 1"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Body Black"
-      },
-      {
-        "trait_type": "Hands",
-        "value": "Hands 5"
-      },
-      {
-        "trait_type": "Visor",
-        "value": "Visor Up"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Test Ones #7",
-    "description": "The mighty morphing test ones!",
-    "image": "ipfs://QmRbQ9AszkWnifGRf6XoyoGtn9WuXDVg4qZhLwEcCtY6eP/7.png",
-    "dna": "906637f27d4c80914a8b51202d33aae18cfae3b0",
-    "id": 7,
-    "edition": 7,
-    "date": 1685100904845,
-    "attributes": [
-      {
-        "trait_type": "BG",
-        "value": "BG 3"
-      },
-      {
-        "trait_type": "Body",
-        "value": "Body Black"
-      },
-      {
-        "trait_type": "Hands",
-        "value": "Hand Flair"
-      },
-      {
-        "trait_type": "Visor",
-        "value": "Visor Eye"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Test Ones #8",
-    "description": "The mighty morphing test ones!",
-    "image": "ipfs://QmRbQ9AszkWnifGRf6XoyoGtn9WuXDVg4qZhLwEcCtY6eP/8.png",
-    "dna": "27c4b68b5a750d52024c42b3a48354aa5a712050",
-    "id": 8,
-    "edition": 8,
-    "date": 1685100904889,
+    "date": 1685104186715,
     "attributes": [
       {
         "trait_type": "BG",
@@ -214,23 +178,27 @@
       },
       {
         "trait_type": "Hands",
-        "value": "Hands 3"
+        "value": "Hands 2"
       },
       {
         "trait_type": "Visor",
-        "value": "Visor Cigar"
+        "value": "Visor Down"
+      },
+      {
+        "trait_type": "Level",
+        "value": "0"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Test Ones #9",
+    "name": "Test Ones #7",
     "description": "The mighty morphing test ones!",
-    "image": "ipfs://QmRbQ9AszkWnifGRf6XoyoGtn9WuXDVg4qZhLwEcCtY6eP/9.png",
-    "dna": "8f0bc5724ac38a553f071831dd237d3bfe55ad32",
-    "id": 9,
-    "edition": 9,
-    "date": 1685100904932,
+    "image": "ipfs://QmRbQ9AszkWnifGRf6XoyoGtn9WuXDVg4qZhLwEcCtY6eP/7.png",
+    "dna": "3742ed8b698fcc6d42a752e4a50c5ae590022b78",
+    "id": 7,
+    "edition": 7,
+    "date": 1685104186757,
     "attributes": [
       {
         "trait_type": "BG",
@@ -242,11 +210,79 @@
       },
       {
         "trait_type": "Hands",
-        "value": "Hands 1"
+        "value": "Hands 2"
+      },
+      {
+        "trait_type": "Visor",
+        "value": "Visor Eyes"
+      },
+      {
+        "trait_type": "Level",
+        "value": "0"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Test Ones #8",
+    "description": "The mighty morphing test ones!",
+    "image": "ipfs://QmRbQ9AszkWnifGRf6XoyoGtn9WuXDVg4qZhLwEcCtY6eP/8.png",
+    "dna": "a3a45a833b3478372179e04e657010bc17a781af",
+    "id": 8,
+    "edition": 8,
+    "date": 1685104186805,
+    "attributes": [
+      {
+        "trait_type": "BG",
+        "value": "BG 1"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Body Violet"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Hand Flair"
+      },
+      {
+        "trait_type": "Visor",
+        "value": "Visor Grin"
+      },
+      {
+        "trait_type": "Level",
+        "value": "0"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Test Ones #9",
+    "description": "The mighty morphing test ones!",
+    "image": "ipfs://QmRbQ9AszkWnifGRf6XoyoGtn9WuXDVg4qZhLwEcCtY6eP/9.png",
+    "dna": "0b47735f0ee87d848f82ffadd1f79e3464020ea2",
+    "id": 9,
+    "edition": 9,
+    "date": 1685104186846,
+    "attributes": [
+      {
+        "trait_type": "BG",
+        "value": "BG 1"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Body Violet"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Hands 3"
       },
       {
         "trait_type": "Visor",
         "value": "Visor Eye"
+      },
+      {
+        "trait_type": "Level",
+        "value": "0"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -255,14 +291,14 @@
     "name": "Test Ones #10",
     "description": "The mighty morphing test ones!",
     "image": "ipfs://QmRbQ9AszkWnifGRf6XoyoGtn9WuXDVg4qZhLwEcCtY6eP/10.png",
-    "dna": "2b89c1e504abe36d54cf8cf5a5bba5056dc2c95e",
+    "dna": "ed8830b6ae43a89c42aab6f5754a68276b79b9e3",
     "id": 10,
     "edition": 10,
-    "date": 1685100904975,
+    "date": 1685104186887,
     "attributes": [
       {
         "trait_type": "BG",
-        "value": "BG 3"
+        "value": "BG 2"
       },
       {
         "trait_type": "Body",
@@ -270,11 +306,15 @@
       },
       {
         "trait_type": "Hands",
-        "value": "Hands 5"
+        "value": "Hand Flair"
       },
       {
         "trait_type": "Visor",
-        "value": "Visor Down"
+        "value": "Visor Grin"
+      },
+      {
+        "trait_type": "Level",
+        "value": "0"
       }
     ],
     "compiler": "HashLips Art Engine"
